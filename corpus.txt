@@ -1,0 +1,41 @@
+Natural language processing helps computers understand human language.
+
+Language models learn patterns from text and predict the next word.
+
+N gram models are simple language models used for text prediction.
+
+Unigram models consider one word at a time.
+
+Bigram models consider two words at a time.
+
+Trigram models consider three words at a time.
+
+Language models can predict words based on previous words.
+
+Artificial intelligence is changing the world.
+
+Machine learning helps computers learn from data.
+
+Deep learning is a part of machine learning.
+
+Natural language processing is an important field of artificial intelligence.
+
+Students can use language models for text prediction.
+
+Text prediction is used in search engines and mobile keyboards.
+
+Language models are useful for many natural language processing applications.
+
+The model learns word patterns from the training data.
+
+A good language model assigns higher probability to likely sentences.
+
+Laplace smoothing helps handle unseen word combinations.
+
+Smoothing prevents zero probability problems.
+
+Perplexity is used to evaluate language models.
+
+Lower perplexity generally indicates better prediction.
+
+Natural language processing allows computers to work with human language.
