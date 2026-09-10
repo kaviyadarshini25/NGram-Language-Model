@@ -39,3 +39,217 @@ Perplexity is used to evaluate language models.
 Lower perplexity generally indicates better prediction.
 
 Natural language processing allows computers to work with human language.
+Artificial intelligence is used in many industries.
+
+Machine learning algorithms learn patterns from historical data.
+
+Natural language processing helps machines understand text.
+
+Language models are used in chatbots and virtual assistants.
+
+Deep learning improves natural language processing applications.
+
+Students use artificial intelligence for learning and education.
+
+Text prediction helps users type messages faster.
+
+Search engines use language models to understand user queries.
+
+Smartphones use predictive text to suggest the next word.
+
+Large language models can generate human like text.
+
+Data science combines statistics programming and machine learning.
+
+Artificial intelligence is becoming important in modern technology.
+Artificial intelligence is a branch of computer science.
+Artificial intelligence enables computers to perform intelligent tasks.
+Machine learning is a part of artificial intelligence.
+Machine learning allows computers to learn from data.
+Deep learning is a type of machine learning.
+Deep learning uses neural networks to process information.
+
+Data is an important part of machine learning.
+Data can be collected from different sources.
+Good quality data helps build better machine learning models.
+Training data is used to teach a machine learning model.
+Testing data is used to evaluate the model.
+
+Natural language processing is a field of artificial intelligence.
+Natural language processing helps computers understand human language.
+NLP is used to analyze text and speech.
+Chatbots use natural language processing.
+Language models are used in many NLP applications.
+
+A language model learns patterns from text.
+A language model can predict the next word in a sentence.
+N gram models are simple language models.
+Unigram models consider one word at a time.
+Bigram models consider two words at a time.
+Trigram models consider three words at a time.
+
+Text prediction is useful in many applications.
+Mobile keyboards use text prediction.
+Search engines use language models.
+Email applications can suggest words while typing.
+Predictive text helps users type faster.
+
+Laplace smoothing is used to handle unseen words.
+Laplace smoothing adds a small value to word counts.
+Smoothing prevents zero probability.
+Zero probability can affect language model evaluation.
+
+Perplexity is used to evaluate a language model.
+Lower perplexity generally indicates better performance.
+A good language model predicts common word sequences.
+The model learns from the training corpus.
+
+Computers can process large amounts of data.
+Computers are used in education and business.
+Technology is changing the way people work.
+Artificial intelligence is used in healthcare.
+Artificial intelligence is used in agriculture.
+Artificial intelligence is used in transportation.
+
+Students can learn programming using computers.
+Python is a popular programming language.
+Python is widely used in data science.
+Python is also used in machine learning.
+Programming helps students solve real world problems.
+
+The internet provides access to large amounts of information.
+Web applications are used by millions of people.
+Mobile applications make communication easier.
+Technology helps people communicate around the world.
+
+A sentence contains a sequence of words.
+Words can have different meanings in different contexts.
+Context helps a language model predict the next word.
+Previous words can provide useful information.
+The model uses previous words to make predictions.
+
+Language models are useful for autocomplete systems.
+Language models are useful for chat applications.
+Language models are useful for search suggestions.
+Language models are useful for speech recognition.
+Language models are useful for text generation.
+The sun rises in the east.
+The sky looks beautiful in the morning.
+People enjoy watching the sunrise.
+The weather is pleasant today.
+Rain brings fresh air and cool weather.
+Clouds cover the sky before rain.
+Winter is usually colder than summer.
+Summer days can be hot and sunny.
+Spring brings colorful flowers.
+Autumn is known for falling leaves.
+
+People enjoy listening to music.
+Music can make people feel happy.
+Many people enjoy watching movies.
+Reading books is a good habit.
+Stories can take people to different worlds.
+People often visit parks during weekends.
+Walking in the evening can be relaxing.
+Friends enjoy spending time together.
+Families often eat meals together.
+Children enjoy playing outdoor games.
+
+Breakfast is an important meal of the day.
+People usually drink tea or coffee in the morning.
+Fresh fruits are healthy foods.
+Vegetables are an important part of a balanced diet.
+Rice is a common food in many countries.
+People enjoy eating different kinds of food.
+Cooking can be a relaxing activity.
+A warm meal can make people feel comfortable.
+Drinking enough water is important for the body.
+Healthy food helps people stay active.
+
+People travel for work and holidays.
+Tourists enjoy visiting new places.
+Beaches are popular places for vacations.
+Mountains are beautiful places to visit.
+People take photographs during their trips.
+Travel allows people to experience different cultures.
+Families often plan trips during holidays.
+A journey can create many happy memories.
+Hotels provide rooms for travelers.
+Maps help people find different places.
+
+Morning walks are good for health.
+Exercise helps people stay active.
+Running is a popular form of exercise.
+Walking is simple and easy to do.
+Sports can improve physical fitness.
+Playing games can be fun and healthy.
+Rest is also important after exercise.
+People should maintain a balanced lifestyle.
+Sleep helps the body and mind recover.
+A good night of sleep makes people feel fresh.
+
+Kindness makes people feel valued.
+Helping others is a good habit.
+Friends support each other during difficult times.
+Family members care for one another.
+People learn from their experiences.
+Hard work can help people achieve their goals.
+Patience is important when learning something new.
+Confidence helps people face challenges.
+Everyone makes mistakes sometimes.
+Mistakes can help people learn and improve.
+
+Books contain knowledge and stories.
+Students go to school to learn new things.
+Teachers help students understand difficult topics.
+Libraries provide books for readers.
+Education helps people build their future.
+Learning can happen inside and outside the classroom.
+Students often study together with their friends.
+Exams test a student's knowledge.
+Practice can improve learning.
+Everyone has something new to learn.
+
+Festivals bring people together.
+People decorate their homes during festivals.
+Families prepare special food for celebrations.
+People wear traditional clothes on special occasions.
+Children enjoy festivals with their families.
+Music and dance are part of many celebrations.
+People exchange gifts during some festivals.
+Holidays give people time to relax.
+Celebrations create happy memories.
+Different cultures have different traditions.
+
+The garden has many colorful flowers.
+Birds fly across the blue sky.
+Trees provide shade on sunny days.
+Rivers flow through many parts of the land.
+The ocean is home to many animals.
+Butterflies fly from flower to flower.
+Birds build nests in trees.
+Animals live in different environments.
+Nature provides beauty and peace.
+People should protect the environment.
+
+The market is busy in the evening.
+People visit shops to buy groceries.
+Fresh vegetables are available in the market.
+Shopkeepers arrange products on shelves.
+People compare prices before buying things.
+Markets can be crowded during festivals.
+Small shops serve local communities.
+Customers often choose products based on quality.
+Shopping can be done online or in stores.
+People usually make a list before shopping.
+
+A rainy day can feel peaceful.
+People carry umbrellas when it rains.
+Children sometimes enjoy playing in the rain.
+The sound of rain can be relaxing.
+A cup of hot tea feels comforting on a rainy day.
+Roads become wet after heavy rain.
+People stay indoors during strong rainfall.
+Rain helps plants and trees grow.
+Farmers depend on rain for their crops.
+Rain is an important part of nature.
